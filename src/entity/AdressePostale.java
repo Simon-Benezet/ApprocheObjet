@@ -16,7 +16,7 @@ public class AdressePostale
 		this.ville = ville;
 	}
 	
-	/*
+	/* TEST
 	public AdressePostale(String rue, int numRue, int codePostal, String ville)
 	{
 		super();
